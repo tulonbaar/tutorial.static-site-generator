@@ -1,0 +1,1 @@
+python3 src/main.py "/tutorial.static-site-generator/"
